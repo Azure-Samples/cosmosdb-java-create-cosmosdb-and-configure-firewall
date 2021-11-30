@@ -12,7 +12,7 @@ extensions:
 # Getting Started with Cosmos - Create Cosmos DB With IP Range - in Java #
 
 
-  Azure CosmosDB sample for high availability.
+  Azure Cosmos DB sample for high availability.
    - Create a CosmosDB configured with IP range filterR
    - Delete the CosmosDB.
  
